@@ -1,7 +1,7 @@
 body {
-    background-color: #1D4221;
+    background-color: #1d2642;
     color: white;
-    font-family: "Bai Jamjuree", sans-serif;
+    font-family: "Merriweather", serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -12,7 +12,7 @@ body {
 button {
     background-color: #64A712;
     color: white;
-    font-family: "Bai Jamjuree", sans-serif;
+    font-family: "Merriweather", serif;
 }
 
 .passo {
@@ -28,6 +28,3 @@ main {
     max-width: 90%;
 }
 
-img {
-    max-width: 90%;
-}
